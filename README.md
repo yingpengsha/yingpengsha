@@ -1,6 +1,5 @@
 <div style="display: flex; align-items:center;">
-  <code style="flex: 1">
-
+  <code>
     Do not go gentle into that good night,  
     Old age should burn and rave at close of day;  
     Rage, rage against the dying of the light.
@@ -26,7 +25,7 @@
     Do not go gentle into that good night.  
     Rage, rage against the dying of the light.
   </code>
-  <img style="flex: 1;width: 50%; height: auto;" src="./iseeisee.jpg"/>
+  <img style="width: 50%; height: auto;" src="./iseeisee.jpg"/>
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yingpengsha.yingpengsha)
