@@ -1,27 +1,28 @@
 ```
-有天喝醉之后你做了一个梦
+Do not go gentle into that good night,  
+Old age should burn and rave at close of day;  
+Rage, rage against the dying of the light.
 
-看见火车站的广场上挂了一个钟
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
 
-它的时针、秒针、分针都在倒着走
+Good men, the last wave by, crying how bright
+Their frail deeds might have danced in a green bay,
+Rage, rage against the dying of the light.
 
-你的时光列车在那里调了头
+Wild men who caught and sang the sun in flight,
+And learn, too late, they grieved it on its way,
+Do not go gentle into that good night.
 
-一切都在还原，过去的景象
+Grave men, near death, who see with blinding sight
+Blind eyes could blaze like meteors and be gay,
+Rage, rage against the dying of the light.
 
-高楼都变成了老区和平房
-
-看见了几年前的学校和银行
-
-崭新的篮球，初恋的对象
-
-在午后的巷子里跟伙伴们奔跑
-
-没有社会压力，没有纷纷扰扰
-
-直到开始认字，开始学着讲话
-
-停在咿咿呀呀不再急着长大
+And you, my father, there on the sad height,
+Curse, bless, me now with your fierce tears, I pray.
+Do not go gentle into that good night.
+Rage, rage against the dying of the light.
 ```
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yingpengsha.yingpengsha)
