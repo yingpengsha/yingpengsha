@@ -24,5 +24,3 @@ Curse, bless, me now with your fierce tears, I pray.
 Do not go gentle into that good night.
 Rage, rage against the dying of the light.
 ```
-
-![](https://visitor-badge.glitch.me/badge?page_id=yingpengsha.yingpengsha)
